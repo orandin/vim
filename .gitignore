@@ -1,5 +1,5 @@
 /bundle
-.netrwhist
-.swp
-.tmp
+*.netrwhist
+*.swp
+*.tmp
 tmp
