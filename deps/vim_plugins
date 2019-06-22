@@ -1,0 +1,5 @@
+github.com/vim-syntastic/syntastic.git
+github.com/SirVer/ultisnips.git
+github.com/fatih/vim-go.git
+github.com/honza/vim-snippets.git
+github.com/elzr/vim-json
